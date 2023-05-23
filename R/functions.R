@@ -30,7 +30,7 @@ plot_model <- function(model, data) {
       intercept = model[1],
       slope = model[2]
     )  +
-    theme_gray(24) # Increased the font size.
+    theme_gray(10) # Increased the font size.
   }
 
 
